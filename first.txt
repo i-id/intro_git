@@ -2,3 +2,4 @@
 最初に変更した内容をステージングします。
 .git add
 git commit
+git rm
